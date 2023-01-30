@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.btn {
+  color: #2563eb;
+  margin: 5px;
+  border-width: 0px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #2563eb;
+}
+.btn1 {
+  color: grey;
+  margin: 5px;
+  border-width: 0px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
